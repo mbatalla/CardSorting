@@ -1,0 +1,12 @@
+{
+  "name": "CardSorting",
+  "version": "0.0.0",
+  "description": "MVP for a card sorting site with very basic functionalities.",
+  "init": "card_sorting.js",
+  "scripts": {},
+  "author": "Daniel Batalla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
